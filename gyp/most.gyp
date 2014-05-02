@@ -24,6 +24,7 @@
         'skpskgr_test.gyp:*',
 #       'pdfviewer.gyp:pdfviewer',
         'dm.gyp:dm',
+        'perf.gyp:perf'
       ],
       'conditions': [
         ['skia_os == "android"', {
